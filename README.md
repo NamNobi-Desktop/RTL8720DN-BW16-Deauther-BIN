@@ -1,3 +1,14 @@
+# Thông tin các phiên bản 
+**Ver:** ``2.2.0``
+**Ver:** ``2.0.0``
+**Ver:** ``1.2.0``
+**Ver:** ``0.1.2``
+
+
+
+
+
+
 # Thông Tin Wifi
 **SSID** : ``RTL8720DN-BW16``<br/><br/>
 **PASS** : ``0123456789``<br/><br/><br/>
