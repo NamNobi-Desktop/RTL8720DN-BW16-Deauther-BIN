@@ -1,11 +1,29 @@
 # Thông tin các phiên bản 
-**Ver:** ``2.2.0``
-**Ver:** ``2.0.0``
+**Ver:** ``2.2.0``           
+> [!TIP]
+
+
+<br/><br/>
+**Ver:** ``2.0.0``      
+> [!TIP]    
+1 : Deauther ( Ngắt Kết Nối ) Đơn Băng Tầng  <br/>
+2 : Deauther ( Ngắt Kết Nối ) Đa Băng Tầng 2.4Ghz + 5Ghz <br/>
+3 : Beacon (Gửi Beacon "Tạo Mạng Ảo Với Mục Tiêu Đã Chọn" khiến thiết bị truy cập mới không thể kết nối tới wifi tuy nhiên thiết bị đang truy cập không ảnh hưởng)  <br/>
+4 : Beacon + Deauther ( Gửi Gói Beacon và Gửi Deauther cùng lúc nhằm ngắt kết nối các thiết bị và chặn truy cập trở lại do không thể xác định AP) <br/>
+5 : Gửi Beacon Ngẫu Nhiên ( Tạo hàng loạt các wifi ảo 2.4Ghz và 5Ghz đan xen với nhau nhằm làm rối loạn danh sách wifi được tìm thấy )
+
+<br/><br/>
 **Ver:** ``1.2.0``
+> [!TIP]
+1 : Deauther ( Ngắt Kết Nối ) Đơn Băng Tầng  <br/>
+2 : Deauther ( Ngắt Kết Nối ) Đa Băng Tầng 2.4Ghz + 5Ghz<br/>
+
+
 **Ver:** ``0.1.2``
+> [!TIP]
+ 1 : Deauther ( Ngắt Kết Nối) Đơn Băng Tầng 
 
-
-
+<br/><br/>
 
 
 
