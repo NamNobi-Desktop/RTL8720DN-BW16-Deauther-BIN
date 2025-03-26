@@ -1,27 +1,30 @@
+
+
 # Thông tin các phiên bản 
-**Ver:** ``2.2.0``           
-> [!TIP]
+
+Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
+
+|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3**         | **Ver 2.0.1**         | **Ver 2.3.1**         |
+|--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+|  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |
+|  **Deauther (5.8Ghz)**         | Không(Đang Phát Triển)|          Có           |           Có          |          Có           |
+|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |
+|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    | 
+|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 20/03/2025            |    (Chưa Công Bố)     |
+ 
+## Ghi chú
+
+- **Ver 2.0.1**: 
+- **Ver**: 
+
+Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên bản mới hơn.
 
 
-<br/><br/>
-**Ver:** ``2.0.0``      
-> [!TIP]    
-1 : Deauther ( Ngắt Kết Nối ) Đơn Băng Tầng  <br/>
-2 : Deauther ( Ngắt Kết Nối ) Đa Băng Tầng 2.4Ghz + 5Ghz <br/>
-3 : Beacon (Gửi Beacon "Tạo Mạng Ảo Với Mục Tiêu Đã Chọn" khiến thiết bị truy cập mới không thể kết nối tới wifi tuy nhiên thiết bị đang truy cập không ảnh hưởng)  <br/>
-4 : Beacon + Deauther ( Gửi Gói Beacon và Gửi Deauther cùng lúc nhằm ngắt kết nối các thiết bị và chặn truy cập trở lại do không thể xác định AP) <br/>
-5 : Gửi Beacon Ngẫu Nhiên ( Tạo hàng loạt các wifi ảo 2.4Ghz và 5Ghz đan xen với nhau nhằm làm rối loạn danh sách wifi được tìm thấy )
 
-<br/><br/>
-**Ver:** ``1.2.0``
-> [!TIP]
-1 : Deauther ( Ngắt Kết Nối ) Đơn Băng Tầng  <br/>
-2 : Deauther ( Ngắt Kết Nối ) Đa Băng Tầng 2.4Ghz + 5Ghz<br/>
-
-
-**Ver:** ``0.1.2``
-> [!TIP]
- 1 : Deauther ( Ngắt Kết Nối) Đơn Băng Tầng 
 
 <br/><br/>
 
