@@ -4,18 +4,27 @@
 
 Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
 
-|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3**         | **Ver 2.0.1**         | **Ver 2.3.1**         |
-|--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |
-|  **Deauther (5.8Ghz)**         | Không(Đang Phát Triển)|          Có           |           Có          |          Có           |
-|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |
-|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    | 
-|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 20/03/2025            |    (Chưa Công Bố)     |
+|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3**         | **Ver 2.0.1**         | **Ver 2.3.1**         |     SAMPLE    |
+|--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------|
+|  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
+|  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
+|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |      Null     |
+|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
+|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
+|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
+|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
+|  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
+|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 20/03/2025            |    (Chưa Công Bố)     |      Null     |
  
+## Giải thích các thuật ngữ và tính năng
+- **Deauther (2.4Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 2.4Ghz<br/>
+- **Deauther (5.8Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 5Ghz<br/>
+- **Deauther (2.4Ghz + 5.8Ghz) :** (Ngắt Kết nối) Ngắt song song 2 băng tầng <br/>
+- **Beacon :** Tạo mạng ảo giống với tên wifi mục tiêu (hiện tại chỉ có tác dụng với wifi có mật khẩu , không mật khẩu không có tác dụng)<br/>
+- **Beacon + Deauther :** Vừa ngắt kết nối vừa tạo mạng ảo giống với tên wifi mạng mục tiêu (Chặn mọi truy cập )<br/>
+- **Random Beacon :** Tạo mạng ảo ngẫu nhiên ( Tạo hàng loạt mạng ngẫu nhiên )<br/>
+- **Change SSID + PASS :** Thay đổi Tên wifi và mật khẩu<br/>
+- **WIFI Evil Twin :** Tạo mạng ảo giống như wifi gốc khi người dùng kết nối sẽ thu thập thông tin theo mục đích người sử dụng.<br/>
 ## Ghi chú
 
 - **Ver 2.0.1**: 
