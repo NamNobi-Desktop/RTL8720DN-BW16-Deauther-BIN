@@ -4,7 +4,7 @@
 
 Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
 
-|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3**         | **Ver 2.0.1**         | **Ver 2.3.1**         |     SAMPLE    |
+|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3/Pro**         | **Ver 2.0.1**         | **Ver 2.3.1**         |     SAMPLE    |
 |--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------|
 |  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
 |  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
