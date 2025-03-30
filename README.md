@@ -8,9 +8,9 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 |--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------|
 |  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
 |  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
-|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |      5 Min    |
-|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      5 Min    |
-|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      5 Min    |
+|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |      3 Min    |
+|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      3 Min    |
+|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      3 Min    |
 |  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      FREE     |
 |  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |      Null     |
 |  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
