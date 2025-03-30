@@ -14,7 +14,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 |  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      FREE     |
 |  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |      Null     |
 |  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
-|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 20/03/2025            |    (Chưa Công Bố)     |      Null     |
+|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 01/04/2025            |    (Chưa Công Bố)     |      Null     |
  
 ## Giải thích các thuật ngữ và tính năng
 - **Deauther (2.4Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 2.4Ghz<br/>
