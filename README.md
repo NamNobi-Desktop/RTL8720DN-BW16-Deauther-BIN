@@ -12,7 +12,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 |  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
 |  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
 |  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
-|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
+|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)|      Có/Bản Quyền     |          Có           | ``Bản Quyền`` |
 |  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
 |  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 20/03/2025            |    (Chưa Công Bố)     |      Null     |
  
