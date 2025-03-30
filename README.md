@@ -8,10 +8,10 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 |--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------|
 |  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
 |  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
-|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |      Null     |
-|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
-|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
-|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      Null     |
+|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |      5 Min    |
+|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      5 Min    |
+|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      5 Min    |
+|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      FREE     |
 |  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)|      Có/Bản Quyền     |          Có           | ``Bản Quyền`` |
 |  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
 |  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 20/03/2025            |    (Chưa Công Bố)     |      Null     |
