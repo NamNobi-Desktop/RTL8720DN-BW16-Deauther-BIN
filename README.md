@@ -4,18 +4,22 @@
 
 Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
 
-|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3/Pro**         | **Ver 2.0.1/VietNam**         | **Ver 2.3.1**         |     SAMPLE    |
-|--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------|
-|  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
-|  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
-|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |      3 Min    |
-|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      3 Min    |
-|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      3 Min    |
-|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      FREE     |
-|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |      Null     |
-|  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
-|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            |    (Chưa Công Bố)     |    (Chưa Công Bố)     |      Null     |
- 
+
+|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3/Pro**         | **Ver 2.0.1/VietNam**         | **Ver 2.3.1**         |
+|--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+|  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |
+|  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |
+|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |
+|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
+|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |
+|  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |
+|          ``SAMPLE``            |        ``Free``       |     ``3 Phút``        |       ``3 Phút ``     |       ``NULL``        |
+|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            |    (Chưa Công Bố)     |    (Chưa Công Bố)     |
+
+
+
 ## Giải thích các thuật ngữ và tính năng
 - **Deauther (2.4Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 2.4Ghz<br/>
 - **Deauther (5.8Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 5Ghz<br/>
