@@ -14,7 +14,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 |  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |      FREE     |
 |  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |      Null     |
 |  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |      Null     | 
-|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            | 01/04/2025            |    (Chưa Công Bố)     |      Null     |
+|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            |    (Chưa Công Bố)     |    (Chưa Công Bố)     |      Null     |
  
 ## Giải thích các thuật ngữ và tính năng
 - **Deauther (2.4Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 2.4Ghz<br/>
@@ -27,7 +27,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 - **WIFI Evil Twin :** Tạo mạng ảo giống như wifi gốc khi người dùng kết nối sẽ thu thập thông tin theo mục đích người sử dụng.<br/>
 ## Ghi chú
 
-- **Ver 2.0.1**: 
+- **Ver**: 
 - **Ver**: 
 
 Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên bản mới hơn.
@@ -40,9 +40,11 @@ Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên
 
 
 # Thông Tin Wifi
-**SSID** : ``RTL8720DN-BW16``<br/><br/>
-**PASS** : ``0123456789``<br/><br/><br/>
-**IP** : ``192.168.4.1`` <br/><br/><br/>
+**IP** : ``192.168.4.1`` <br/><br/>
+
+**SSID** : ``RTL8720DN-BW16``<br/>
+**PASS** : ``0123456789``<br/><br/>
+
 **Liên Hệ Với Mình Qua:** 
 # https://m.me/Namnobi.nobita <br/><br/><br/>
 
@@ -64,16 +66,12 @@ Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên
 <br/>
 <br/><br/><br/><br/>
 
-![481812006_1000204278688898_387039840885086736_n](https://github.com/user-attachments/assets/ffce0f74-6edd-424d-803b-8c764526fd2c)
 
-# Deauther-RTL8720DN-BW16-VIETSUB-BIN
+# RTL8720DN-BW16-Deauther-BIN
 Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp và Việt hoá hoàn toàn, dễ sử dụng và thao tác cũng như quản lý các mục tiêu trên giao diện giúp người dùng dễ tiếp cận hơn với cách thức Deauth". Đây là phiên bản tấn công 2.4 và 5Ghz song song và đa mục tiêu.Và được nạp bằng FILE.BIN !
 
 **Ảnh-Demo**
 
-![481585806_600579412854984_4220957190305653992_n](https://github.com/user-attachments/assets/9906855c-5bc7-47ed-8443-8a55a841d7fc)
-![481781815_1138766470854354_7827039816587535270_n](https://github.com/user-attachments/assets/78a8596a-57a1-493e-88f0-d8d129382368)
-![481690109_2025179794655370_7167630380595976299_n](https://github.com/user-attachments/assets/b0e5d662-b8ca-42bc-b39f-3eef681efac2)
 
 
 
