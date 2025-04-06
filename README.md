@@ -68,7 +68,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 **Cả Bộ Ở Đây Nếu Bạn Lười:** **https://collshp.com/rtl8720dn_bw16**
 > [!TIP]
-<ins> Lưu ý mình chỉ để xuất để các bạn hoàn thiển sản phẩm, mình không phải nhà bán hàng. Cảm ơn các bạn đã quan tâm 😜
+<ins> Lưu ý mình chỉ để xuất để các bạn hoàn thiển sản phẩm, mình không phải nhà bán hàng. Cảm ơn các bạn đã quan tâm !
 
 
 <br/>
