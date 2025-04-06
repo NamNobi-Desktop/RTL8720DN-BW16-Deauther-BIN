@@ -4,7 +4,7 @@
 
 Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
 
-|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3/Pro**         | **Ver 2.0.1**         | **Ver 2.3.1**         |     SAMPLE    |
+|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3/Pro**         | **Ver 2.0.1/VietNam**         | **Ver 2.3.1**         |     SAMPLE    |
 |--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------|
 |  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
 |  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |      FREE     |
@@ -26,11 +26,19 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 - **Change SSID + PASS :** Thay đổi Tên wifi và mật khẩu<br/>
 - **WIFI Evil Twin :** Tạo mạng ảo giống như wifi gốc khi người dùng kết nối sẽ thu thập thông tin theo mục đích người sử dụng.<br/>
 ## Ghi chú
+-**Ver 2.3.1**: ``Hoàn Thiện`` Cùng chờ nhá ........!
 
-- **Ver**: 
-- **Ver**: 
+- **Ver 2.0.1/VietNam**: Với phiên bản được lấy từ tác giả ``SerendipityR`` với dự án của anh ấy là ``RTL8720dn-Deauther-CN`` và được Vietsub lại nhưng vẫn giữ nguyên các tính năng của như khả năng của nguyên bản. <br/>
 
-Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên bản mới hơn.
+- **Ver 2.0.1**: ``Bản Cải Tiến`` Kể từ phiên bản này đã được thay đổi giao diện Web và thêm các chức năng tối thiểu và chuẩn hóa các kiểu Deauther và chuẩn.   <br/>
+
+- **Ver 1.0.3/Pro**: Với phiên bản này làm mượt mà thao tác trên giao diện WEB giúp trải nghiệm người dùng tốt hơn và cải thiện hiệu suất Deauther với khả năng deauther ``WIFI6`` và làm một số thiết bị wifi đời cũ Reset mỗi 3 phút Deauther <br/>
+
+- **Ver 1.0.3**: Phiên bản tối ưu hóa và thêm chức năng đa mục tiêu và mục tiêu kép phù hợp với băng tầng 2.4/5Ghz dựa trên phiên bản tiền nhiệm là ``Ver 0.1.2``. <br/>
+
+- **Ver 0.1.2**: Là bản được tối ưu từ tác giả ``tesa-klebeband`` và dự án của anh ấy ``RTL8720dn-Deauther`` với phiên bản này được giản lược và đã Việt Sub bỏ qua các công đoạn như mã lý do và cải thiện giao diện người dùng .
+
+> **Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên bản mới hơn!**
 
 
 
@@ -39,7 +47,7 @@ Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên
 
 
 
-# Thông Tin Wifi
+# Thông Tin Kết Nối 
 **IP** : ``192.168.4.1`` <br/><br/>
 
 **SSID** : ``RTL8720DN-BW16``<br/>
