@@ -15,7 +15,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 |  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
 |  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |
 |  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |
-|          ``SAMPLE``            |        ``Free``       |     ``3 Phút``        |       ``3 Phút ``     |       ``NULL``        |
+|          ``SAMPLE``            |        ``Free``       |     ``3 Phút``        |       ``Free``     |       ``NULL``        |
 |  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            |    (Chưa Công Bố)     |    (Chưa Công Bố)     |
 
 
