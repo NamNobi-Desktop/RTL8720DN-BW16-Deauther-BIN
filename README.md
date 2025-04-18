@@ -35,11 +35,10 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
  Link Sản Phẩm Hoàn Thiện**: **https://s.shopee.vn/1g4fIwAURM**<br/>
  
 Bản Có Ăng-Ten** : **https://s.shopee.vn/qVYJPDf8B**<br/>
-
-
 <br/>
-# RTL8720DN-BW16-Deauther-BIN
 
+
+# RTL8720DN-BW16-Deauther-BIN <br/>
 Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp và Việt hoá hoàn toàn, dễ sử dụng và thao tác cũng như quản lý các mục tiêu trên giao diện giúp người dùng dễ tiếp cận hơn với cách thức Deauth". Đây là phiên bản tấn công 2.4 và 5Ghz song song và đa mục tiêu.Và được nạp bằng FILE.BIN !
 
 **Ảnh-Demo**
