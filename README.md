@@ -6,7 +6,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 
 ## Ghi chú
-
+- **Ver 1.0.2**: Là phiên bản đã được tối ưu cho việc deauth với giao diện cơ bản dễ dùng và cho phép kết nối liên tục mà không hề dán đoạn .<br/>
 - **Ver 0.1.2**: Là bản được tối ưu từ tác giả ``tesa-klebeband`` và dự án của anh ấy ``RTL8720dn-Deauther`` với phiên bản này được giản lược và đã Việt Sub bỏ qua các công đoạn như mã lý do và cải thiện giao diện người dùng .
 
 > **Bảng này sẽ được cập nhật khi có thêm thông tin về các phiên bản mới hơn!**
@@ -19,13 +19,13 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 
 # Thông Tin Kết Nối 
-**IP** : ``192.168.4.1`` <br/><br/>
+**IP** : ``192.168.4.1`` <br/>
 
 **SSID** : ``RTL8720DN-BW16``<br/>
-**PASS** : ``0123456789``<br/><br/>
+**PASS** : ``0123456789``<br/>
 
 **Liên Hệ Với Mình Qua:** 
-# https://m.me/Namnobi.nobita <br/><br/><br/>
+# https://m.me/Namnobi.nobita <br/><br/>
 
 # Video Hướng Dẫn Cách Nạp:
 **https://youtu.be/q96H-Iu4dWs?si=Fe6rRgJudwRsKzAR**
@@ -43,7 +43,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 
 <br/>
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 # RTL8720DN-BW16-Deauther-BIN
