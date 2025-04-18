@@ -33,11 +33,8 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 # Sản Phẩm mà bạn có thể quan tâm !
 **Link Sản Phẩm Hoàn Thiện**: **https://s.shopee.vn/1g4fIwAURM**<br/>
  
-**Link Mạch BW16**: **https://s.shopee.vn/40Sa5PIomu**<br/>
-
 **Bản Có Ăng-Ten** :**https://s.shopee.vn/qVYJPDf8B**<br/>
 
-**Cả Bộ Ở Đây Nếu Bạn Lười:** **https://collshp.com/rtl8720dn_bw16**
 > [!TIP]
 <ins> Lưu ý mình chỉ để xuất để các bạn hoàn thiển sản phẩm, mình không phải nhà bán hàng. Cảm ơn các bạn đã quan tâm !
 
