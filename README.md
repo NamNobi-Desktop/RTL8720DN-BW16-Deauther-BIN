@@ -5,40 +5,7 @@
 Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
 
 
-|        **Tính năng**           | **Ver 0.1.2**         | **Ver 1.0.3/Pro**         | **Ver 2.0.1/VietNam**         | **Ver 2.3.1**         |
-|--------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|  **Deauther (2.4Ghz)**         |          Có           |          Có           |           Có          |          Có           |
-|  **Deauther (5.8Ghz)**         |          Có           |          Có           |           Có          |          Có           |
-|  **Deauther (2.4Ghz + 5.8Ghz)**| Không(Đang Phát Triển)|          Có           |           Có          |          Có           |
-|  **Beacon**                    | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **Beacon + Deauther**         | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **Random Beacon**             | Không                 | Không(Đang Phát Triển)|           Có          |          Có           |
-|  **Change SSID + PASS**        | Không                 | Không(Đang Phát Triển)| Không(Đang Phát Triển)|          Có           |
-|  **WIFI Evil Twin**            | Không                 | Không                 | Không(Đang Phát Triển)|  (Đang Phát Triển)    |
-|          ``SAMPLE``            |        ``Free``       |     ``3 Phút``        |       ``Free``     |       ``NULL``        |
-|  ``Ngày phát hành``            | 01/12/2024            | 05/02/2025            |    (Chưa Công Bố)     |    (Chưa Công Bố)     |
-
-
-
-## Giải thích các thuật ngữ và tính năng
-- **Deauther (2.4Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 2.4Ghz<br/>
-- **Deauther (5.8Ghz) :** (Ngắt Kết nối) Chỉ ngắt kết nối đơn lẻ băng tầng 5Ghz<br/>
-- **Deauther (2.4Ghz + 5.8Ghz) :** (Ngắt Kết nối) Ngắt song song 2 băng tầng <br/>
-- **Beacon :** Tạo mạng ảo giống với tên wifi mục tiêu (hiện tại chỉ có tác dụng với wifi có mật khẩu , không mật khẩu không có tác dụng)<br/>
-- **Beacon + Deauther :** Vừa ngắt kết nối vừa tạo mạng ảo giống với tên wifi mạng mục tiêu (Chặn mọi truy cập )<br/>
-- **Random Beacon :** Tạo mạng ảo ngẫu nhiên ( Tạo hàng loạt mạng ngẫu nhiên )<br/>
-- **Change SSID + PASS :** Thay đổi Tên wifi và mật khẩu<br/>
-- **WIFI Evil Twin :** Tạo mạng ảo giống như wifi gốc khi người dùng kết nối sẽ thu thập thông tin theo mục đích người sử dụng.<br/>
 ## Ghi chú
--**Ver 2.3.1**: ``Hoàn Thiện`` Cùng chờ nhá ........!
-
-- **Ver 2.0.1/VietNam**: Với phiên bản được lấy từ tác giả ``SerendipityR`` với dự án của anh ấy là ``RTL8720dn-Deauther-CN`` và được Vietsub lại nhưng vẫn giữ nguyên các tính năng của như khả năng của nguyên bản. <br/>
-
-- **Ver 2.0.1**: ``Bản Cải Tiến`` Kể từ phiên bản này đã được thay đổi giao diện Web và thêm các chức năng tối thiểu và chuẩn hóa các kiểu Deauther và chuẩn.   <br/>
-
-- **Ver 1.0.3/Pro**: Với phiên bản này làm mượt mà thao tác trên giao diện WEB giúp trải nghiệm người dùng tốt hơn và cải thiện hiệu suất Deauther với khả năng deauther ``WIFI6`` và làm một số thiết bị wifi đời cũ Reset mỗi 3 phút Deauther <br/>
-
-- **Ver 1.0.3**: Phiên bản tối ưu hóa và thêm chức năng đa mục tiêu và mục tiêu kép phù hợp với băng tầng 2.4/5Ghz dựa trên phiên bản tiền nhiệm là ``Ver 0.1.2``. <br/>
 
 - **Ver 0.1.2**: Là bản được tối ưu từ tác giả ``tesa-klebeband`` và dự án của anh ấy ``RTL8720dn-Deauther`` với phiên bản này được giản lược và đã Việt Sub bỏ qua các công đoạn như mã lý do và cải thiện giao diện người dùng .
 
