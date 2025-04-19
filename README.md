@@ -27,6 +27,11 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 **Liên Hệ Với Mình Qua:** 
 # https://m.me/Namnobi.nobita <br/><br/>
 
+# Hoặc<br/>
+
+**https://m.me/Namnobi.nobita?text=Tôi%20muốn%20sử%20dụng%20phiên%20bản%20đầy%20đủ** <br/>
+
+
 # Video Hướng Dẫn Cách Nạp:
 **https://youtu.be/q96H-Iu4dWs?si=Fe6rRgJudwRsKzAR**
 
