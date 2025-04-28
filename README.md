@@ -40,9 +40,9 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 # Sản Phẩm mà bạn có thể quan tâm !<br/>
 
- Link Sản Phẩm Hoàn Thiện: **https://s.shopee.vn/1g4fIwAURM**<br/>
+ Link Sản Phẩm Hoàn Thiện: **https://s.shopee.vn/2LLKZiUMRn**<br/>
  
-Bản Có Ăng-Ten: **https://s.shopee.vn/qVYJPDf8B**<br/>
+Bản Có Ăng-Ten: **https://s.shopee.vn/4fjFLjbHZ5**<br/>
 <br/>
 
 
