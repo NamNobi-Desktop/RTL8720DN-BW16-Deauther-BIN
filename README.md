@@ -6,7 +6,9 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 
 ## Ghi chú
-- **Ver 1.2.3**: Thêm chức năng Beacon và Deauth cùng lúc, tạo ra hàng loạt các tên wifi có cùng tên với mục tiêu và kèm kheo là ngắt kết nối mục tiêu đó, làm tràn danh sách wifi của các thiết bị và chặn mọi truy cập wifi. **``Mới Cập Nhật``**<br/><br/>
+- **Ver 1.3.5**: Có chức năng điều khiển hệ thống Led bật hoặc tắt toàn bộ Led của mạch kèm theo khả năng gửi Beacon độc lập mà vẫn giữ nguyên các chức năng ở các phiên bản trước, với khả năng gửi Beacon độc lập này sẽ được hoạt động bằng cách chọn mục tiêu từ danh sách quét mạng và sau khi bấm Thực Hiện sẽ tạo ra 30 tên wifi giống nhau có đuôi bằng dãy chữ số tiến lên từ 1 đến 30!  **``Mới Cập Nhật``**<br/>
+
+- **Ver 1.2.3**: Thêm chức năng Beacon và Deauth cùng lúc, tạo ra hàng loạt các tên wifi có cùng tên với mục tiêu và kèm kheo là ngắt kết nối mục tiêu đó, làm tràn danh sách wifi của các thiết bị và chặn mọi truy cập wifi.<br/>
 
 - **Ver 1.0.2**: Là phiên bản đã được tối ưu cho việc deauth với giao diện cơ bản dễ dùng và cho phép kết nối liên tục mà không hề gián đoạn .<br/><br/>
 
@@ -40,9 +42,9 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 # Sản Phẩm mà bạn có thể quan tâm !<br/>
 
- Link Sản Phẩm Hoàn Thiện: **https://s.shopee.vn/2LLKZiUMRn**<br/>
+Link Sản Phẩm Hoàn Thiện: **https://s.shopee.vn/9AC2ijFANb**<br/>
  
-Bản Có Ăng-Ten: **https://s.shopee.vn/4fjFLjbHZ5**<br/>
+Bản Có Ăng-Ten: **https://s.shopee.vn/2qHzAnkp4S**<br/>
 <br/>
 
 
