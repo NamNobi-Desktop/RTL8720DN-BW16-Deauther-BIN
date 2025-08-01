@@ -5,7 +5,9 @@
 Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauther-BIN , được phát triển bởi NamNobi-Desktop, cùng với các chức năng nổi bật:
 
 
-## Ghi chú
+## Nội Dung Cập Nhật
+- **Ver 1.5.1**: Thay đổi tên WIFI thành tên phiên bản bắt đầu từ **``Ver 1.5.1``** tên WIFI được tạo ra là **``Ver 1.5.1``** , cho phép hẹn giờ Bật Tắt để kích hoạt các chế độ tấn công theo thời gian thực và tối ưu khả năng kết nối đồng thời tăng số lượng gói tin được gửi của Beacon lên đến 60 tên wifi mới được tạo ra. **``Sắp Ra Mắt``**<br/>
+
 - **Ver 1.3.5**: Có chức năng điều khiển hệ thống Led bật hoặc tắt toàn bộ Led của mạch kèm theo khả năng gửi Beacon độc lập mà vẫn giữ nguyên các chức năng ở các phiên bản trước, với khả năng gửi Beacon độc lập này sẽ được hoạt động bằng cách chọn mục tiêu từ danh sách quét mạng và sau khi bấm Thực Hiện sẽ tạo ra 30 tên wifi giống nhau có đuôi bằng dãy chữ số tiến lên từ 1 đến 30!  **``Mới Cập Nhật``**<br/>
 
 - **Ver 1.2.3**: Thêm chức năng Beacon và Deauth cùng lúc, tạo ra hàng loạt các tên wifi có cùng tên với mục tiêu và kèm kheo là ngắt kết nối mục tiêu đó, làm tràn danh sách wifi của các thiết bị và chặn mọi truy cập wifi.<br/>
@@ -26,15 +28,16 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 # Thông Tin Kết Nối 
 **IP** : ``192.168.4.1`` <br/>
 
-**SSID** : ``RTL8720DN-BW16``<br/>
+**SSID** : ``RTL8720DN-BW16``  <br/><br/>
+( Từ phiên bản **``Ver 1.5.1``** SSID ``sẽ được đặt theo tên phiên bản`` ) <br/><br/>
 **PASS** : ``0123456789``<br/>
 
 **Liên Hệ Với Mình Qua:** 
 # https://m.me/Namnobi.nobita <br/><br/>
 
-# Hoặc<br/>
+# Góp ý cho phiên bản mới tại:<br/>
 
-**https://m.me/Namnobi.nobita?text=Tôi%20muốn%20sử%20dụng%20phiên%20bản%20đầy%20đủ** <br/>
+**https://www.facebook.com/share/p/1FrEgjbgTb/** <br/>
 
 
 # Video Hướng Dẫn Cách Nạp:
@@ -49,9 +52,13 @@ Bản Có Ăng-Ten: **https://s.shopee.vn/2qHzAnkp4S**<br/>
 
 
 # RTL8720DN-BW16-Deauther-BIN <br/>
-Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp và Việt hoá hoàn toàn, dễ sử dụng và thao tác cũng như quản lý các mục tiêu trên giao diện giúp người dùng dễ tiếp cận hơn với cách thức Deauth". Đây là phiên bản tấn công 2.4 và 5Ghz song song và đa mục tiêu.Và được nạp bằng FILE.BIN !
+Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp và Việt hoá hoàn toàn, dễ sử dụng và thao tác cũng như quản lý các mục tiêu trên giao diện web giúp người dùng dễ tiếp cận hơn với cách thức Deauth". Đây là phiên bản tấn công 2.4 và 5Ghz song song và đa mục tiêu.Và được nạp bằng FILE.BIN !
 
-**Ảnh-Demo**
+# **Ảnh-Demo**
+<br/>
+
+![Anh giao dien Deauth](https://github.com/user-attachments/assets/ae5f0256-7ce3-4edc-b598-52923baf3cc1)
+![Screenshot_2025-08-01-21-35-31-462_com google android captiveportallogin](https://github.com/user-attachments/assets/638a5d86-6738-4d98-aed6-7f7cb51753ac)
 
 
 
