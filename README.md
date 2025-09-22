@@ -64,7 +64,7 @@ Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp v
                                                    ![IMG_20250921_233953](https://github.com/user-attachments/assets/f7289225-d49f-4578-af81-18901420b9a9)
 
 
-
+<br/>
 > [!CAUTION]
 **Tuyên bố miễn trừ trách nhiệm pháp lý**<br/><br/>
 ``Tất cả các thông tin, hướng dẫn, mã nguồn, video hoặc bất kỳ nội dung nào được chia sẻ tại đây hoàn toàn mang mục đích học tập, nghiên cứu và phục vụ cho việc nâng cao kiến thức cá nhân. Tôi không khuyến khích, không xúi giục, và cũng không chịu trách nhiệm đối với bất kỳ hành vi sử dụng nội dung nào từ đây cho mục đích trái pháp luật, phá hoại, gây rối, trục lợi cá nhân, hoặc làm ảnh hưởng tiêu cực đến bất kỳ cá nhân, tổ chức hay tập thể nào tại Việt Nam hoặc bất kỳ quốc gia nào khác.``<br/><br/>
