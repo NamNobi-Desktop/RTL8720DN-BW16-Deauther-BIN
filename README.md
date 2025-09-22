@@ -43,11 +43,14 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 # Video Hướng Dẫn Cách Nạp:
 **https://youtu.be/q96H-Iu4dWs?si=Fe6rRgJudwRsKzAR**
 
+  **- FIXX LỖI**:  ``Nếu gặp lỗi nạp hoàn tất nhưng Led trên mạch không sáng , mạch WIFI không phát sóng thì bạn có thể xem cách Fixx ở đây nha!``<br/>
+
+**https://www.youtube.com/watch?v=7XSlPma6Odk**
 # Sản Phẩm mà bạn có thể quan tâm !<br/>
 
 Link Sản Phẩm Hoàn Thiện: **https://s.shopee.vn/9AC2ijFANb**<br/>
  
-Bản Có Ăng-Ten: **https://s.shopee.vn/2qHzAnkp4S**<br/>
+Bản Có Ăng-Ten: **https://s.shopee.vn/6VEQ3crzwk**<br/>
 <br/>
 
 
@@ -57,9 +60,8 @@ Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp v
 # **Ảnh-Demo**
 <br/>
 
-![Anh giao dien Deauth](https://github.com/user-attachments/assets/ae5f0256-7ce3-4edc-b598-52923baf3cc1)
-![Screenshot_2025-08-01-21-35-31-462_com google android captiveportallogin](https://github.com/user-attachments/assets/638a5d86-6738-4d98-aed6-7f7cb51753ac)
-
+![_storage_emulated_0_DCIM_Screenshots_IMG_20250921_233907](https://github.com/user-attachments/assets/3181cbc6-ebf8-43e4-ace5-2be408c59f40)
+                                                   ![IMG_20250921_233953](https://github.com/user-attachments/assets/f7289225-d49f-4578-af81-18901420b9a9)
 
 
 
