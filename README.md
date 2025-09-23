@@ -25,7 +25,9 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 
 
-# Thông Tin Kết Nối 
+# Thông Tin Kết Nối <br/>
+``Từ phiên bản Ver 1.2.3 sau khi kết nối WIFI sẽ được tự động chuyển đến trang hệ thống thao tác nếu không tự động bạn nhập địa chỉ IP bên dưới để vào trang thao tác nha!``
+
 **IP** : ``192.168.4.1`` <br/>
 
 **SSID** : ``RTL8720DN-BW16``  <br/><br/>
@@ -65,6 +67,7 @@ Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp v
 
 
 <br/>
+
 > [!CAUTION]
 **Tuyên bố miễn trừ trách nhiệm pháp lý**<br/><br/>
 ``Tất cả các thông tin, hướng dẫn, mã nguồn, video hoặc bất kỳ nội dung nào được chia sẻ tại đây hoàn toàn mang mục đích học tập, nghiên cứu và phục vụ cho việc nâng cao kiến thức cá nhân. Tôi không khuyến khích, không xúi giục, và cũng không chịu trách nhiệm đối với bất kỳ hành vi sử dụng nội dung nào từ đây cho mục đích trái pháp luật, phá hoại, gây rối, trục lợi cá nhân, hoặc làm ảnh hưởng tiêu cực đến bất kỳ cá nhân, tổ chức hay tập thể nào tại Việt Nam hoặc bất kỳ quốc gia nào khác.``<br/><br/>
