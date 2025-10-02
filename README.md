@@ -6,7 +6,7 @@ Dưới đây là bảng so sánh các phiên bản khác nhau của BW16-Deauth
 
 
 ## Nội Dung Cập Nhật
-- **Ver 1.5.1**: Thay đổi tên WIFI thành tên phiên bản bắt đầu từ **``Ver 1.5.1``** tên WIFI được tạo ra là **``Ver 1.5.1``** , cho phép hẹn giờ Bật Tắt để kích hoạt các chế độ tấn công theo thời gian thực và tối ưu khả năng kết nối đồng thời tăng số lượng gói tin được gửi của Beacon lên đến 60 tên wifi mới được tạo ra. **``Mới Cập Nhật``****<br/>
+- **Ver 1.5.1**: Thay đổi tên WIFI thành tên phiên bản bắt đầu từ **``Ver 1.5.1``** tên WIFI được tạo ra là **``Ver 1.5.1``** , cho phép hẹn giờ Bật Tắt để kích hoạt các chế độ tấn công theo thời gian thực và tối ưu khả năng kết nối đồng thời tăng số lượng gói tin được gửi của Beacon lên đến 60 tên wifi mới được tạo ra. **``Mới Cập Nhật``**<br/>
 
 - **Ver 1.3.5**: Có chức năng điều khiển hệ thống Led bật hoặc tắt toàn bộ Led của mạch kèm theo khả năng gửi Beacon độc lập mà vẫn giữ nguyên các chức năng ở các phiên bản trước, với khả năng gửi Beacon độc lập này sẽ được hoạt động bằng cách chọn mục tiêu từ danh sách quét mạng và sau khi bấm Thực Hiện sẽ tạo ra 30 tên wifi giống nhau có đuôi bằng dãy chữ số tiến lên từ 1 đến 30!  <br/>
 
